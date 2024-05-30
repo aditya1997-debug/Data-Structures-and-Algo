@@ -15,4 +15,4 @@ for index, i in enumerate(arr):
         
 print(states)
 print("=================>")
-print("Sorted array", states[-1])
+print("Sorted array", arr)
