@@ -14,5 +14,5 @@ for i in range(0, len(nums)):
 
 
 print("States ", result)
-print("=================>")
+print("==================>")
 print("Sorted array", nums)
