@@ -13,4 +13,4 @@ for i in range(len(arr)):
 
 print("States ", result)
 print("====================>")
-print("Sorted Array", result[-1])
+print("Sorted Array", arr)
